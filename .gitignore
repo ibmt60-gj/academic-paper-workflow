@@ -1,0 +1,11 @@
+.DS_Store
+*.docx
+__pycache__/
+
+# Real paper runs are not part of workflow source control.
+paper_runs/*
+!paper_runs/README.md
+
+# Archived test and legacy outputs should stay outside the workflow repo history.
+archive/test_runs/
+archive/legacy_step_outputs/
