@@ -11,6 +11,7 @@
 - 进入启动阶段前，按需读取 [PHASE_0_INIT_WORKSPACE.md](/Users/jingmac/workspce_creator/NSF_writesup/writing/academic_paper_workflow/PHASE_0_INIT_WORKSPACE.md)
 - 需要理解模板结构时，按需读取 [templates/README.md](/Users/jingmac/workspce_creator/NSF_writesup/writing/academic_paper_workflow/templates/README.md)
 - 需要理解论文任务归档规则时，按需读取 [paper_runs/README.md](/Users/jingmac/workspce_creator/NSF_writesup/writing/academic_paper_workflow/paper_runs/README.md)
+- 需要理解本仓库的 Git / GitHub 日常使用方式时，按需读取 [GIT_USAGE.md](/Users/jingmac/workspce_creator/NSF_writesup/writing/academic_paper_workflow/GIT_USAGE.md)
 
 新开 Codex 对话执行本工作流时，可以使用以下最小启动提示：
 
